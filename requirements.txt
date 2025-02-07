@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+jupyterlab
+jupyter_nbextensions_configurator
+ipywidgets
+notebook
+jupyterlab-quarto
+tqdm
